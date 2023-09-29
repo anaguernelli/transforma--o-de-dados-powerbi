@@ -14,9 +14,10 @@ Este projeto deu início a um desafio proposto no curso **Santander Bootcamp 202
 
 5. Junção de colaboradores e respectivos nomes dos gerentes na tabela **employee** e mescla nas colunas de nome e sobrenome de cada colaborador e gerente.
 
-### :books: Por que apenas mesclar consultas e não combinar consultas nos casos supracitados?
+## :books: Dúvidas
+**Por que apenas mesclar consultas e não combinar consultas nos casos supracitados?**
 
-Mesclar consultas é para momento em que desejamos apenas unir colunas entre tabelas, trabalhando de forma colunar. Combinar consultas está em unificar apenas as linhas entre as tabelas. 
+Mesclar consultas é para o momento em que desejamos apenas unir colunas entre tabelas, ou seja, trabalhando de forma colunar. Combinar consultas está em unificar apenas as linhas entre as tabelas. 
 
 
 ## :hammer_and_wrench: Tecnologias Utilizadas
